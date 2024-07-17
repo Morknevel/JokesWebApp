@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99555\\source\\repos\\JokesWebApp\\JokesWebApp\\JokesWebApp.csproj": {}
+    "C:\\Users\\99555\\Desktop\\github\\JokesWebApp\\JokesWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99555\\source\\repos\\JokesWebApp\\JokesWebApp\\JokesWebApp.csproj": {
+    "C:\\Users\\99555\\Desktop\\github\\JokesWebApp\\JokesWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99555\\source\\repos\\JokesWebApp\\JokesWebApp\\JokesWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\99555\\Desktop\\github\\JokesWebApp\\JokesWebApp.csproj",
         "projectName": "JokesWebApp",
-        "projectPath": "C:\\Users\\99555\\source\\repos\\JokesWebApp\\JokesWebApp\\JokesWebApp.csproj",
+        "projectPath": "C:\\Users\\99555\\Desktop\\github\\JokesWebApp\\JokesWebApp.csproj",
         "packagesPath": "C:\\Users\\99555\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99555\\source\\repos\\JokesWebApp\\JokesWebApp\\obj\\",
+        "outputPath": "C:\\Users\\99555\\Desktop\\github\\JokesWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99555\\AppData\\Roaming\\NuGet\\NuGet.Config",
